@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @stampe99
-- 👀 I’m interested in python & JavaScript 
-- 🌱 I’m learning python & JavaScript 
+- 👋 Hi, I’m @stampe99, aka stampe, I'm a swedish programmer. 
 
+- 📂 Languages I know are: Python, JavaScript, Html & CSS. 
 
-<!---
-stampe99/stampe99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🗒️ I mainly focus on backend developement such as websites, I'm also intrested in website security & vulnerables. 
+
+- 📌 Feel free to invite me to any of your projects if you want help! 
