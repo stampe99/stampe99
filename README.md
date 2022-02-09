@@ -7,3 +7,7 @@
 - 📌 Feel free to invite me to any of your projects if you want help! 
 
 - 👨‍💻 A chrome extension I use for github and that I recomend is a file icon package that changes the folder icon on files to the language icon, it can be found [here](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe/related)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stampe99&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stampe99)](https://github.com/anuraghazra/github-readme-stats)
