@@ -1,3 +1,1 @@
-[![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/JeffBezos)
-[![Follow on Gitlab](https://img.shields.io/badge/Follow-Gitlab-2867B2.svg)](https://gitlab.com/stampe99)
-[![Follow on GitHub](https://img.shields.io/badge/Follow-GitHub-6cc644.svg)](https://github.com/stampe99)
+![wawacat](https://styles.redditmedia.com/t5_58bgsg/styles/communityIcon_ge578qj55ov71.png?width=256&s=9090dd4df654068bccaefc8b1afa6c0ba7985825)
